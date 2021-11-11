@@ -1,5 +1,5 @@
 
-<p align="right"> <img src="https://github.com/MukheshKumarV" /> </p>
+
 <p align="center">
 <br><img src="image1.webp" width="400px"><br/><br/>
 
