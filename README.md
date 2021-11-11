@@ -3,7 +3,7 @@
 <p align="center">
 <br><img src="image1.webp" width="400px"><br/><br/>
 
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hello there 👋</h2>
 
 <div align="center" >
   
