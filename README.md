@@ -18,8 +18,8 @@ I am **Ghazi Khan** working as **Sr. Software Engineer @ Tech9**. I am an Experi
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukheshKumarV&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=MukheshKumarV&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MukheshKumarV)](https://github.com/MukheshKumarV/github-profile-trophy)
