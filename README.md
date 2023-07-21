@@ -24,7 +24,7 @@
 
 I believe in staying updated with the latest trends and best practices in web development. I Believe Life is a learning process.  My current learning goals include:
 
-- Exploring the Jamstack architecture and modern frontend frameworks.
+- Exploring the backend architecture and modern frontend frameworks.
 - Mastering JavaScript and its application in large-scale projects.
 
 
@@ -71,6 +71,15 @@ Here are some of the technologies and tools I frequently work with:
       title="JavaScript" alt="JavaScript" width="60" height="60" />&nbsp;
    </p>
    <br/>
+
+## :fire: My Stats :
+<br/>
+<p align="center" >
+<a href="https://github.com/mukheshkumarv/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mukheshkumarv&rank_icon=github&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukheshkumarv&layout=donut&theme=vision-friendly-dark"/>
+  </a>
+</p>
    
 ## 📫 Let's Connect
 
@@ -80,9 +89,5 @@ I'm always open to collaborating on exciting projects or discussing web developm
 - LinkedIn: [Mukhesh Kumar Vuppugandla](https://www.linkedin.com/in/mukhesh-kumar-vuppugandla-4151a1236/)
 
 Let's build the web of the future together! 😄
-<br/>
-<p align="center" >
-<a href="https://github.com/mukheshkumarv/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mukheshkumarv&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+
+
