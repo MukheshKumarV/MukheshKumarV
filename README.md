@@ -1,75 +1,88 @@
-# Web Developer's README Profile
+<div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/MukheshKumarV">Mukhesh Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/mukhesh-kumar-vuppugandla-4151a1236/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/0imieyl5nwv9u9e5nitf6s9z4"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp; 
+ </p>
+<div align="center">
+<h3>💻 Full Stack Web Developer | 🛸 Telangana,India </h3>
+<img src="https://komarev.com/ghpvc/?username=mukheshkumarv&style=style=for-the-badge&color=blue" alt=""/>
+</div>    
 
-![Your Name](https://your-image-url.com/your-image.png)
+## 🌟  About me
 
-## 👋 Hey there, I'm [Your Name]!
+- :telescope: I’m a Learning Enthusiast with a desire to learn new technologies.
 
-![Web Developer](https://your-image-url.com/web-developer-image.png)
+- :seedling: Exploring Full Stack Technologies.
 
-I'm a passionate web developer with a creative mindset and an eye for detail. I enjoy crafting intuitive and visually appealing web experiences that leave a lasting impression. This README serves as an introduction to who I am as a developer and what I bring to the table.
+- :zap: In my free time, I read books on Human Psychology.
 
-## 🛠️ Technologies & Tools
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mukhesh%20Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mukhesh-kumar-vuppugandla-4151a1236/)
+
+## 🌱 Learning Goals
+
+I believe in staying updated with the latest trends and best practices in web development. I Believe Life is a learning process.  My current learning goals include:
+
+- Exploring the Jamstack architecture and modern frontend frameworks.
+- Mastering JavaScript and its application in large-scale projects.
+
+
+# :hammer_and_wrench: Languages  :
 
 Here are some of the technologies and tools I frequently work with:
-
-![Tech Stack](https://your-image-url.com/tech-stack.png)
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), React, Redux
 - **Backend**: Node.js, Express.js, REST APIs
 - **Databases**: MongoDB, MySQL, Firebase
 - **Version Control**: Git, GitHub
 - **DevOps**: Webpack, Babel
-- **Design Tools**: Figma, Adobe XD
-- **Deployment**: Heroku, Netlify, Vercel
-
-## 🌱 Learning Goals
-
-I believe in staying updated with the latest trends and best practices in web development. My current learning goals include:
-
-- Exploring the Jamstack architecture and modern frontend frameworks.
-- Mastering TypeScript and its application in large-scale projects.
-- Improving my knowledge of UI/UX design principles for enhanced user experiences.
-
-## 💼 Professional Experience
-
-#### Frontend Developer | Creative Web Solutions | 2020 - Present
-
-- Collaborated with designers to implement responsive and pixel-perfect UI designs using HTML, CSS, and JavaScript.
-- Developed reusable React components to optimize development speed and maintain consistency.
-- Improved website performance, resulting in a 20% decrease in page load times.
-
-#### Junior Full Stack Developer | Innovative Web Studios | 2019 - 2020
-
-- Worked on RESTful API development and database design for a social media platform using Node.js and MongoDB.
-- Assisted in creating interactive frontend features to enhance user engagement.
-- Conducted code reviews and contributed to improving code quality and team productivity.
-
-## 🌟 Side Projects
-
-#### Project Name 1
-
-![Project 1](https://your-image-url.com/project1.png)
-
-Brief description of the project and your role. Mention the technologies used.
-
-#### Project Name 2
-
-![Project 2](https://your-image-url.com/project2.png)
-
-Brief description of the project and your role. Mention the technologies used.
-
-## 📈 Visitor Count
-
-![Visitors](https://hit.yhype.me/github/profile?user_id=86123249&color=blue&style=for-the-badge)
-
-
+- **Deployment**: Heroku, Netlify
+<br/>
+<p align="center">
+   <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"
+      title="Java" alt="Java" width="60" height="60" />&nbsp;
+    <img class="profile-img"
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"
+      alt="React" width="60" height="60" />&nbsp;
+   <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
+      title="Firebase" alt="Firebase" width="60" height="60" />&nbsp;
+    <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
+      title="MySQL" alt="MySQL" width="60" height="60" />&nbsp;
+    <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+      title="NodeJS" alt="NodeJS" width="60" height="60" />&nbsp;
+    <img class="profile-img"
+      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+      title="AWS" alt="AWS" width="60" height="60" />&nbsp;
+    <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+      title="Git" alt="Git" width="60" height="60" />
+    <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C"
+      width="60" height="60" />&nbsp;
+    <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+      title="Python" alt="Python" width="60" height="60" />&nbsp;
+    <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+      title="Redux" alt="Redux " width="60" height="60" />&nbsp;
+    <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+      title="CSS3" alt="CSS" width="60" height="60" />&nbsp;
+    <img class="profile-img" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+      title="HTML5" alt="HTML" width="60" height="60" />&nbsp;
+    <img class="profile-img"
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+      title="JavaScript" alt="JavaScript" width="60" height="60" />&nbsp;
+   </p>
+   <br/>
+   
 ## 📫 Let's Connect
 
 I'm always open to collaborating on exciting projects or discussing web development ideas. Reach out to me through:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-github-username)
-- Portfolio: [Your Portfolio Website](https://your-portfolio-website.com)
+- Email: mukheshkumarvuppugandla@gmail.com
+- LinkedIn: [Mukhesh Kumar Vuppugandla](https://www.linkedin.com/in/mukhesh-kumar-vuppugandla-4151a1236/)
 
 Let's build the web of the future together! 😄
+<br/>
+<p align="center" >
+<a href="https://github.com/mukheshkumarv/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mukheshkumarv&&show_icons=true&theme=radical"/>
+  </a>
+</p>
