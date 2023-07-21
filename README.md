@@ -60,7 +60,7 @@ Brief description of the project and your role. Mention the technologies used.
 
 ## 📈 Visitor Count
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MukheshKumarV)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MukheshKumarV&left_color=green&right_color=red)
 
 
 ## 📫 Let's Connect
