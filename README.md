@@ -28,7 +28,7 @@ I believe in staying updated with the latest trends and best practices in web de
 - Mastering JavaScript and its application in large-scale projects.
 
 
-# :hammer_and_wrench: Languages  :
+## :hammer_and_wrench: Languages  :
 
 Here are some of the technologies and tools I frequently work with:
 
